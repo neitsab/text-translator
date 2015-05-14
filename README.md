@@ -1,3 +1,7 @@
+**Note: this is a fork of the original extension by @awamper, which includes a fix proposed on the [original extension page](https://extensions.gnome.org/extension/593/text-translator/) by user [wojtex5](https://extensions.gnome.org/accounts/profile/wojtex5) following changes in Google Translate API which were breaking the provider. However the workaround removes word lists, synonyms, example sentences and so on, and simply translates words (not even sentences or not correctly).**
+
+Pull requests are more than welcome, I'm not a developper and I just put this fork up so people could try it out more  easily :)
+
 ##Text Translator
 Translation of the text by different translators (currently [Google.Translate](https://translate.google.com), [Yandex.Translate](https://translate.yandex.com/)).
 
